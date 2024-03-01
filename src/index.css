@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.imagen{
+  background-image: url("https://projeto58.seusitenovo.online/wp-content/uploads/sites/194/2020/11/bkgnd-theros-min.jpg");
+  background-attachment:fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.imagen2{
+  background-image: url("https://www.labodegasolar.com/cdn/shop/articles/placas-solares-tejado-thinkstock-getty-1662535982.jpg?v=1667323017");
+  background-attachment:fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.imagen3{
+  background-image: url("https://sotysolar.es/imgcache/1200x1200/451404466-post-comofuncionan-webp-webp_razj9sems0ryosa.webp");
+  background-attachment:fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.imagen4{
+  background-image: url("https://www.technosun.com/es/wp-content/uploads/sites/3/2020/11/photovoltaic-system-2742302_1280.jpg");
+  background-attachment:fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.imagen5{
+  background-image: url("https://i.blogs.es/272a31/alternative-21761_1920/1366_2000.jpg");
+  background-attachment:fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.responsive{
+  grid-template-columns: repeat(
+    auto-fill,
+    minmax(350px,1fr)
+  );
+}
