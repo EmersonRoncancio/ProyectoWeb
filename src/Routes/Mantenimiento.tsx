@@ -6,7 +6,7 @@ export const Mantenimiento = () => {
       <section className="w-full h-[60vh] imagen4 flex justify-center items-center">
         <h2 className="text-[50px] text-white">Mantenimiento</h2>
       </section>
-      <section className="w-full h-[]">
+      <section className="w-full">
         <article className="flex">
             <div className="w-[50%] h-[80vh] flex justify-center items-center">
               <img className="w-[80%] h-[80%] rounded-3xl shadow-xl shadow-gray-500 object-cover" src="https://assets-global.website-files.com/5ff3273633e29c2a7c8b6c80/60e2bc96d03c584784f200fa_blog_paneles-solares.jpg" alt="" />
