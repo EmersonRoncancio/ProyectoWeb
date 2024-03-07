@@ -9,7 +9,7 @@ export const Footer = () => {
               cumque reiciendis deserunt, vel iusto architecto nobis!</p>
         <p className="text-md">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde laborum dicta velit quasi
              ullam soluta laudantium, eius quibusdam consequuntur voluptatibus similique a, ipsam
-              cumque reiciendis deserunt, vel iusto architecto nobissdsss!</p>
+              cumque reiciendis deserunt, vel iusto architecto nobissdssssadsd!</p>
     </footer>
   )
 }
