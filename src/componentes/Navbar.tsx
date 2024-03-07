@@ -7,7 +7,7 @@ export const Navbar = () => {
     const path = useLocation().pathname
     
   return (
-    <header className="w-full h-[80px] bg-slate-200 flex justify-between items-center px-[10px] shadow-gray-300 shadow-xl fixed top-0 z-10">
+    <header className="w-full h-[80px] bg-slate-200 hidden lg:flex justify-between items-center px-[10px] shadow-gray-300 shadow-xl fixed top-0 z-10">
         <a href="">
             <img className="w-[120px] h-[45px]" src={logo} alt="Logo"/>
         </a>

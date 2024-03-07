@@ -42,6 +42,14 @@
   background-size: cover;
 }
 
+.imagen6{
+  background-image: url("https://grupoturelectric.com/wp-content/uploads/2019/08/solar-panel-array-1591358_1280.jpg");
+  background-attachment:fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .responsive{
   grid-template-columns: repeat(
     auto-fill,
