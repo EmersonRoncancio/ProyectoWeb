@@ -1,5 +1,5 @@
 import { MinFooter } from "../componentes/MinFooter"
-import { features, people } from "../helpers"
+import { features } from "../helpers"
 
 export const Seguridad = () => {
   return (

@@ -1,13 +1,13 @@
-import { Switch } from '@headlessui/react'
-import { useState } from 'react'
+// import { Switch } from '@headlessui/react'
+// import { useState } from 'react'
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
   
 
 export const DisenioWeb = () => {
-    const [agreed, setAgreed] = useState(false)
-    function classNames(...classes) {
-        return classes.filter(Boolean).join(' ')
-      }
+    // const [agreed, setAgreed] = useState(false)
+    // function classNames(...classes) {
+    //     return classes.filter(Boolean).join(' ')
+    //   }
 
   return (
     <div className="isolate bg-white px-6 py-24 sm:py-32 lg:px-8">
@@ -133,7 +133,7 @@ export const DisenioWeb = () => {
               />
             </div>
           </div>
-          <Switch.Group as="div" className="flex gap-x-4 sm:col-span-2">
+          {/* <Switch.Group as="div" className="flex gap-x-4 sm:col-span-2">
             <div className="flex h-6 items-center">
               <Switch
                 checked={agreed}
@@ -153,7 +153,7 @@ export const DisenioWeb = () => {
                 />
               </Switch>
             </div>
-          </Switch.Group>
+          </Switch.Group> */}
         </div>
         <div className="mt-10">
           <button

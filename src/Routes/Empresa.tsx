@@ -15,7 +15,7 @@ export const Empresa = () => {
             <h2 className="text-blue-400 text-3xl">Quienes somos</h2>
             <p className="text-lg text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, veniam voluptatibus esse
               nihil laboriosam distinctio optio corporis eos nisi quas necessitatibus reprehenderit iure
-              laborum quasi reiciendis eveniet, doloremque provident non!</p>
+              laborum quasi reiciendis eveniet, doloremque provident non!sds</p>
           </div>
           <div className="w-[50%] h-screen flex justify-center items-center">
             <img className="w-[80%] h-[80%] rounded-3xl shadow-xl shadow-gray-500 object-cover" src="https://www.soyemprendedor.co/wp-content/uploads/2017/12/paneles-solares.jpg" alt="" />
